@@ -1,0 +1,1 @@
+export const get_summary=(youtubeLink)=> `http://127.0.0.1:5000/getcontent?youtubeLink=${youtubeLink}`
